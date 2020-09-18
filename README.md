@@ -43,4 +43,6 @@ Credits
 
 https://github.com/NVlabs/stylegan2
 https://github.com/akanimax/msg-stylegan-tf
+https://github.com/TharinduRewatha
+https://github.com/justinpinkney/stylegan2
 https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH
